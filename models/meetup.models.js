@@ -50,6 +50,10 @@ const meetupSchema = new mongoose.Schema(
         title: String,
       },
     ],
+    eventTags: {
+      type: [String],
+      required: true,
+    },
   },
   { timestamps: true }
 );

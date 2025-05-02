@@ -76,6 +76,30 @@ app.post("/meetup", async (req, res) => {
   }
 })
 
+// update data
+
+async function readMeetupDataById(meetupId, dataToUpdate){
+  try{
+    const updatedMeetup = await Meetup.findByIdAndUpdate(meetupId, dataToUpdate, {new: true})
+    return updatedMeetup
+  } catch (error){
+    console.log("Error in updating meetup data.", error)
+  }
+}
+
+app.post("/meetup/:meetupId", async (req, res) => {
+  try{
+    const updatedMeetup = await readMeetupDataById(req.params.meetupId, req.body)
+    if(updatedMeetup){
+      res.status(200).json({message: "Meetup data updated successfully.", updatedMeetup: updatedMeetup})
+    } else{
+      res.status(404).json({error: "Meetup not found."})
+    }
+  } catch(error){
+    res.status(500).json({error: "Failed to update meetup data."})
+  }
+})
+
 const PORT = 3000;
 app.listen(PORT, () => {
   console.log(`Server is running on ${PORT}`);
