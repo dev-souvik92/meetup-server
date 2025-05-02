@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Tech Conference",
+    "eventImageUrl": "https://images.unsplash.com/photo-1504384764586-bb4cdc1707b0?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "eventMode": "Offline Event",
+    "eventStartingTime": "Thu Jul 18 2025, 7:00 PM IST",
+    "eventEndTime": "Thu Jul 18 2025, 9:00 PM IST",
+    "eventDetails": "Join us at the ultimate Tech Conference where innovation meets inspiration. Explore the latest trends in AI, Web3, Cloud, and Software Development. Network with top industry leaders, developers, and tech enthusiasts. Reserve your seat today and be part of the future of technology!",
+    "dressCode": "Smart casual",
+    "age": "18 and above",
+    "address": "Tech City, 79/b tech avenue, Bangalore",
+    "fees": 3000,
+    "speakers": [
+      {
+        "name": "Tanmay Singh",
+        "speakerImage": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "title": "Tech Lead"
+      },
+      {
+        "name": "Animesh Jha",
+        "speakerImage": "https://images.unsplash.com/photo-1527980965255-d3b416303d12?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "title": "CEO"
+      }
+    ]
+  },
+  {
+    "title": "Design Workshop",
+    "eventImageUrl": "https://images.unsplash.com/photo-1576595580361-90a855b84b20?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "eventMode": "Offline Event",
+    "eventStartingTime": "Mon Jul 19 2025, 7:00 PM IST",
+    "eventEndTime": "Mon Jul 19 2025, 9:00 PM IST",
+    "eventDetails": "Join us at the ultimate Design Conference where innovation meets inspiration. Explore the latest trends in Designing. Network with top industry leaders, developers, and tech enthusiasts. Reserve your seat today and be part of the future of Designing!",
+    "dressCode": "Casual",
+    "age": "18 and above",
+    "address": "Design City, 9/j design avenue, Delhi",
+    "fees": 2000,
+    "speakers": [
+      {
+        "name": "Amit Bose",
+        "speakerImage": "https://images.unsplash.com/photo-1542909168-82c3e7fdca5c?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "title": "Design Lead"
+      },
+      {
+        "name": "Arunima Das",
+        "speakerImage": "https://images.unsplash.com/photo-1584308972272-9e4e7685e80f?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "title": "Designer"
+      }
+    ]
+  },
+  {
+    "title": "Marketing Seminar",
+    "eventImageUrl": "https://images.unsplash.com/photo-1560439514-07abbb294a86?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "eventMode": "Offline Event",
+    "eventStartingTime": "Tue Aug 15 2025, 10:00 AM IST",
+    "eventEndTime": "Tue Aug 15 2025, 12:00 PM IST",
+    "eventDetails": "Join us for an insightful Marketing Seminar where industry experts share powerful growth strategies. Discover the latest trends in digital marketing, branding, and customer engagement. Ideal for marketers, entrepreneurs, and business enthusiasts aiming to level up. Network with professionals and gain actionable knowledge to drive your brand forward.",
+    "dressCode": "Formal",
+    "age": "18 and above",
+    "address": "Marketing City, 789/A marketing avenue, Pune",
+    "fees": 3500,
+    "speakers": [
+      {
+        "name": "Rishi Agarwal",
+        "speakerImage": "https://images.unsplash.com/photo-1640256195638-67ee4d10a204?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "title": "Marketing Manager"
+      },
+      {
+        "name": "Ajit Kumar",
+        "speakerImage": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "title": "SEO Specialist"
+      }
+    ]
+  }
+]
